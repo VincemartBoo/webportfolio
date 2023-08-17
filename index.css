@@ -1,0 +1,71 @@
+/*CSS RESET*/
+*{
+	text-align: center;
+	scroll-behavior: smooth;
+}
+
+#nav{
+	font-size: 50px;
+	color: #f0ad4e;
+	font-family: Tektur;
+}
+
+#tool{
+	font-size: 50px;
+	color: #f0ad4e;
+	font-family: Tektur;
+}
+
+#cont{
+	font-size: 50px;
+	color: #f0ad4e;
+	font-family: Tektur;
+}
+
+#proj{
+	font-size: 50px;
+	color: #f0ad4e;
+	text-align: center;
+	font-family: Tektur;
+}
+
+#profile {
+	height: 500px;
+	width: 500px;
+	border-radius: 50%;
+}
+
+#cardimg{
+	width: 910px;
+	height: 280px;
+}
+
+#core{
+	color: #61AFEF;
+	font-family: Handjet;
+	font-weight: bolder;
+}
+
+#gitzuitt{
+	height: 110px;
+	width: 110px;
+}
+
+#landing h3{
+	font-family: Handjet;
+	font-weight: bolder;
+}
+
+#projects h5{
+	font-family: Handjet;
+	font-weight: bolder;
+}
+
+#landing p{
+	font-family: Kanit;
+}
+
+#projects p{
+	font-family: Kanit;
+}
+
